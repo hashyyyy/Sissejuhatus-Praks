@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 test test xdddddddddddddddddddddddddd
+=======
+test TEST TEST ARTUR
+>>>>>>> c40691cece9c2a1d3368b6cc08ee40af32f6d96f
 
 test test
 
